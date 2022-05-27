@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Potr-Pots landing page, about this project:
+1. Landing page according to [Figma design](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS?node-id=0%3A1)
+2. [DEMO LINK](https://efdalyalcin.github.io/newLayout-Potr_Pots/)
+3. Technology stack: HTML, CSS, BEM, SCSS
